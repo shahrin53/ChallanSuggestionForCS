@@ -1,0 +1,5 @@
+<CONNECTIONS>
+<CONNECTION ID="1" DRIVER_CLASS_NAME="com.mysql.jdbc.Driver" DATABASE_URL="jdbc:mysql://103.147.182.69/lereve"
+ USER_NAME = "lv_remote" PASSWORD = "l1YxtV!0Oortc"
+ IS_DEFAULT = "TRUE"/>
+</CONNECTIONS>
